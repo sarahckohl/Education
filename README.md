@@ -15,7 +15,7 @@ An index of my personal software development studies, in particular my post-grad
 * Udemy
   * (in progress) The Complete Web Developer Bootcamp - Beginner to Expert
   * (planned) Learn and Understand AngularJS
-* Code Academy:
+* Code Academy
   * HTML & CSS
   * Javascript
   * JQuery
@@ -36,7 +36,7 @@ An index of my personal software development studies, in particular my post-grad
 
 #### Git
 
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/) - A detailed explanation of a proven branching model that I have begun using on a personal project I am leading.
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/) - A detailed explanation of a proven branching model that I adopted for a project that I am leading.
 
 ### Languages
 #### Javascript
