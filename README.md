@@ -30,7 +30,7 @@ An index of my personal software development studies, in particular my post-grad
 ### Software Development
 #### Test-Driven Development
 
-* [Beginner's Guide To Unit Testing](http://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-what-is-unit-testing--wp-25728)
+* [Beginner's Guide To Unit Testing](http://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-building-a-testable-plugin--wp-25741) - A primer on writing unit tests using a Wordpress plugin as an example.
 * [TotT: Avoiding Flakey Tests](http://googletesting.blogspot.com/2008/04/tott-avoiding-flakey-tests.html) - A piece about what flakey tests are and how to avoid them.
 * [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html) - A short piece on creating effective testing practices.
 
