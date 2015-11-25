@@ -20,6 +20,7 @@ An index of my personal software development studies, in particular my post-grad
   * Javascript
   * JQuery
   * AngularJS
+* RubyMonk Primer
 
 ## Articles
 ### Technologies
