@@ -2,6 +2,13 @@
 An index of my personal software development studies, in particular my post-graduation reading.
 
 ## Books
+
+#### Languages
+
+##### Haskell
+* (in progress) Learn You a Haskell for Great Good!
+* (planned) Real World Haskell
+
 #### Object-Oriented Design
 
 * (in progress) Design Patterns: Elements of Reusable Object-Oriented Software
