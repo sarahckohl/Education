@@ -9,6 +9,9 @@ An index of my personal software development studies, in particular my post-grad
 * (in progress) Learn You a Haskell for Great Good!
 * (planned) Real World Haskell
 
+#### Javascript
+* (planed) Functional Javascript
+
 #### Object-Oriented Design
 
 * (in progress) Design Patterns: Elements of Reusable Object-Oriented Software
