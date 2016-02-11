@@ -15,6 +15,7 @@ An index of my personal software development studies, in particular my post-grad
 #### Object-Oriented Design
 
 * (in progress) Design Patterns: Elements of Reusable Object-Oriented Software
+* (in progress) Design Patterns Explained Simply
 
 #### Software Development
 
