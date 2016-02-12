@@ -40,6 +40,7 @@ An index of my personal software development studies, in particular my post-grad
 * [Object Pooling](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/object-pooling) - Useful video explaining how to increase efficiency in a game by reducing the amount of calls to instantiate and destroy complex objects.
 
 ### Software Development
+
 #### Test-Driven Development
 
 * [Beginner's Guide To Unit Testing](http://code.tutsplus.com/articles/the-beginners-guide-to-unit-testing-building-a-testable-plugin--wp-25741) - A primer on writing unit tests using a Wordpress plugin as an example.
@@ -49,6 +50,8 @@ An index of my personal software development studies, in particular my post-grad
 #### Git
 
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/) - A detailed explanation of a proven branching model that I adopted for a project that I am leading.
+#### Web Development
+* [How Secure Are Query Strings Over HTTPS?](https://blog.httpwatch.com/2009/02/20/how-secure-are-query-strings-over-https/) - A brief explanation of the advantages and drawback of query strings, and alternatives for handling sensitive data.
 
 ### Languages
 #### Javascript
