@@ -32,6 +32,7 @@ An index of my personal software development studies, in particular my post-grad
   * JQuery
   * AngularJS
   * Make A Website
+  * Make An Interactive Website
 
 ## Articles
 ### Technologies
