@@ -55,6 +55,7 @@ An index of my personal software development studies, in particular my post-grad
 #### Web Development
 
 * [How Secure Are Query Strings Over HTTPS?](https://blog.httpwatch.com/2009/02/20/how-secure-are-query-strings-over-https/) - A brief explanation of the advantages and drawback of query strings, and alternatives for handling sensitive data.
+* [Rest vs. SOAP] (http://spf13.com/post/soap-vs-rest) - A brief summary situations SOAP is favored over REST.
 
 ### Languages
 #### Javascript
