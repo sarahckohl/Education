@@ -37,7 +37,7 @@ An index of my personal software development studies, in particular my post-grad
   * Make An Interactive Website
 
 ### Seminars
- * Microsoft Let's Dev It | Web Tour - All-day seminar on Microsoft web stack, with emphasis on ASP.NET Core 1.0 (5) and Azure.
+ * MSDN Let's Dev It | Web Tour - All-day seminar on Microsoft web stack, with emphasis on ASP.NET Core 1.0 (5) and Azure.
 
 ## Articles
 ### Technologies
