@@ -67,3 +67,4 @@ An index of my personal software development studies, in particular my post-grad
 
 * [Understanding Javascript callback functions](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) - Primer on Javascript callbacks.
 * [Functional Programming in Javascript](http://reactivex.io/learnrx/) - Interactive lesson on using callbacks to write higher-order functions.
+* [Avoid Polluting The Global Namespace in Javascript](http://lillylabs.no/2014/09/19/avoid-polluting-the-global-namespace-in-javascript/) - Quick guide on minimizing global scope pollution in Javascript, with examples in Angular.js
